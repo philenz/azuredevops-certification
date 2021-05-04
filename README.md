@@ -10,3 +10,6 @@
 ### [DevOps Engineer 30 Day Challenge](https://docs.microsoft.com/en-nz/learn/challenges?id=8351EDFE-A67A-46D4-81CD-6439844B72AC&wt.mc_id=cloudskillschallenge_8351EDFE-A67A-46D4-81CD-6439844B72AC)
 - [Capture Web App Logs with App Service Diagnostic Logging](./AppServiceDiagnosticLogging.md)
 - [Control and organize Azure resources with Azure Resource Manager](./AzureResourceManager.md)
+
+### Links
+- https://github.com/johnthebrit/AzureMasterClass
