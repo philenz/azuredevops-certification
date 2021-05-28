@@ -17,8 +17,6 @@
 1. [Monitor cloud resources](./TODO.md)
 1. [React to state changes in your Azure services by using Event Grid](./TODO.md)
 1. [Design a holistic monitoring strategy on Azure](./TODO.md)
-1. [Migrate your repository by using GitHub best practices](./TODO.md)
-1. [Upload your project by using GitHub best practices](./TODO.md)
 1. [Manage repository changes by using pull requests on GitHub](./TODO.md)
 1. [Settle competing commits by using merge conflict resolution on GitHub](./TODO.md)
 1. [Search and organize repository history by using GitHub](./TODO.md)
@@ -37,6 +35,8 @@
 1. [Deploy Spring microservices to Azure](./Spring.md)
 1. [Introduction to GitHub](./TODO.md)
 1. [Communicate effectively on GitHub by using Markdown](./Markdown.md)
+1. [Migrate your repository by using GitHub best practices](./GitHubMigration.md)
+1. [Upload your project by using GitHub best practices](./GitHubUpload.md)
 
 ### Links
 - https://www.whizlabs.com/microsoft-azure-certification-az-400/practice-tests/
