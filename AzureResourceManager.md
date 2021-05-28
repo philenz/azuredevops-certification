@@ -1,2 +1,2 @@
-## [Control and organize Azure resources with Azure Resource Manager](https://docs.microsoft.com/en-nz/learn/modules/control-and-organize-with-azure-resource-manager/?WT.mc_id=cloudskillschallenge_8351EDFE-A67A-46D4-81CD-6439844B72AC)
+## Control and organize Azure resources with Azure Resource Manager
 ![ARM](./ARM.png)

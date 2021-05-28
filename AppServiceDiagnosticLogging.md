@@ -1,4 +1,4 @@
-## [Capture Web App Logs with App Service Diagnostic Logging](https://docs.microsoft.com/en-nz/learn/modules/capture-application-logs-app-service/?WT.mc_id=cloudskillschallenge_8351edfe-a67a-46d4-81cd-6439844b72ac&ns-enrollment-type=Collection&ns-enrollment-id=67pku71drej4)
+## Capture Web App Logs with App Service Diagnostic Logging
 * Only Windows apps can save logs to Azure storage
 * File system logs are rotated after 24 hours for performance
 * Deploy an Azure Web App...

@@ -9,8 +9,6 @@
 - Define and implement a continuous delivery and release management strategy (10-15%)
 ### [DevOps Engineer 30 Day Challenge](https://docs.microsoft.com/en-nz/users/cloudskillschallenge/collections/67pku71drej4?WT.mc_id=cloudskillschallenge_8351edfe-a67a-46d4-81cd-6439844b72ac)
 #### ToDo
-1. [Introduction to App Center](./AppCenter.md)
-1. [Deploy Spring microservices to Azure](./TODO.md)
 1. [Microsoft Azure Well-Architected Framework - Performance efficiency](./TODO.md)
 1. [Microsoft Azure Well-Architected Framework - Operational excellence](./TODO.md)
 1. [Analyze your Azure infrastructure by using Azure Monitor logs](./TODO.md)
@@ -19,14 +17,12 @@
 1. [Monitor cloud resources](./TODO.md)
 1. [React to state changes in your Azure services by using Event Grid](./TODO.md)
 1. [Design a holistic monitoring strategy on Azure](./TODO.md)
-1. [Introduction to GitHub](./TODO.md)
 1. [Migrate your repository by using GitHub best practices](./TODO.md)
 1. [Upload your project by using GitHub best practices](./TODO.md)
 1. [Manage repository changes by using pull requests on GitHub](./TODO.md)
 1. [Settle competing commits by using merge conflict resolution on GitHub](./TODO.md)
 1. [Search and organize repository history by using GitHub](./TODO.md)
 1. [Manage an InnerSource program by using GitHub](./TODO.md)
-1. [Communicate effectively on GitHub by using Markdown](./TODO.md)
 1. [Maintain a secure repository by using GitHub best practices](./TODO.md)
 1. [Automate DevOps processes by using GitHub Apps](./TODO.md)
 1. [Automate GitHub by using GitHub Script](./TODO.md)
@@ -37,6 +33,10 @@
 #### Done
 1. [Capture Web App Logs with App Service Diagnostic Logging](./AppServiceDiagnosticLogging.md)
 1. [Control and organize Azure resources with Azure Resource Manager](./AzureResourceManager.md)
+1. [Introduction to App Center](./AppCenter.md)
+1. [Deploy Spring microservices to Azure](./Spring.md)
+1. [Introduction to GitHub](./TODO.md)
+1. [Communicate effectively on GitHub by using Markdown](./Markdown.md)
 
 ### Links
 - https://www.whizlabs.com/microsoft-azure-certification-az-400/practice-tests/
