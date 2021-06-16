@@ -1,0 +1,1 @@
+## Define and implement a continuous delivery and release management strategy (10-15%)
