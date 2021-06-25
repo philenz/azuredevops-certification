@@ -7,3 +7,7 @@
 * Additionally, Application Insights SDKs can be used to instrument apps in cases where...
     1. custom events collection is required,
     1. or codeless attach is not yet supported.
+* In this module, you learned how to...
+    - enable and configure Application Insights so you can gather and analyze data
+    - create custom charts that display exactly the data that interests you
+
