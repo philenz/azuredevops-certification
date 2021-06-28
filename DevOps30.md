@@ -1,9 +1,5 @@
 ### [DevOps Engineer 30 Day Challenge](https://docs.microsoft.com/en-nz/users/cloudskillschallenge/collections/67pku71drej4?WT.mc_id=cloudskillschallenge_8351edfe-a67a-46d4-81cd-6439844b72ac)
 #### ToDo
-1. [Instrument server-side web application code with Application Insights](DevOps30/TODO-InstrumentWebApp.md)
-1. [Monitor cloud resources](DevOps30/TODO-MonitorResources.md)
-1. [React to state changes in your Azure services by using Event Grid](DevOps30/TODO-EventGrid.md)
-1. [Automate DevOps processes by using GitHub Apps](DevOps30/TODO-GitHubApps.md)
 1. [Automate GitHub by using GitHub Script](DevOps30/TODO-GitHubScript.md)
 1. [Manage software delivery by using a release based workflow on GitHub](DevOps30/TODO-GitHubWorkflow.md)
 1. [Build continuous integration (CI) workflows by using GitHub Actions](DevOps30/TODO-GitHubActions.md)
@@ -28,3 +24,7 @@
 1. [Search and organize repository history by using GitHub](DevOps30/GitHistory.md)
 1. [Manage an InnerSource program by using GitHub](DevOps30/InnerSource.md)
 1. [Maintain a secure repository by using GitHub best practices](DevOps30/GitHubSecurity.md)
+1. [Instrument server-side web application code with Application Insights](DevOps30/InstrumentWebApp.md)
+1. [Monitor cloud resources](DevOps30/MonitorResources.md)
+1. [React to state changes in your Azure services by using Event Grid](DevOps30/EventGrid.md)
+1. [Automate DevOps processes by using GitHub Apps](DevOps30/GitHubApps.md)
