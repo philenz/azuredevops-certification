@@ -1,11 +1,4 @@
 ### [DevOps Engineer 30 Day Challenge](https://docs.microsoft.com/en-nz/users/cloudskillschallenge/collections/67pku71drej4?WT.mc_id=cloudskillschallenge_8351edfe-a67a-46d4-81cd-6439844b72ac)
-#### ToDo
-1. [Automate GitHub by using GitHub Script](DevOps30/TODO-GitHubScript.md)
-1. [Manage software delivery by using a release based workflow on GitHub](DevOps30/TODO-GitHubWorkflow.md)
-1. [Build continuous integration (CI) workflows by using GitHub Actions](DevOps30/TODO-GitHubActions.md)
-1. [Build and deploy applications to Azure by using GitHub Actions](DevOps30/TODO-GitHubActionsAzure.md)
-1. [Implement a code workflow in your build pipeline by using Git and GitHub](DevOps30/TODO-GitHubBuildPipeline.md)
-#### Done
 1. [Capture Web App Logs with App Service Diagnostic Logging](DevOps30/AppServiceDiagnosticLogging.md)
 1. [Control and organize Azure resources with Azure Resource Manager](DevOps30/AzureResourceManager.md)
 1. [Introduction to App Center](DevOps30/AppCenter.md)
@@ -28,3 +21,8 @@
 1. [Monitor cloud resources](DevOps30/MonitorResources.md)
 1. [React to state changes in your Azure services by using Event Grid](DevOps30/EventGrid.md)
 1. [Automate DevOps processes by using GitHub Apps](DevOps30/GitHubApps.md)
+1. [Automate GitHub by using GitHub Script](DevOps30/GitHubScript.md)
+1. [Manage software delivery by using a release based workflow on GitHub](DevOps30/GitHubWorkflow.md)
+1. [Build continuous integration (CI) workflows by using GitHub Actions](DevOps30/GitHubActions.md)
+1. [Build and deploy applications to Azure by using GitHub Actions](DevOps30/GitHubActionsAzure.md)
+1. [Implement a code workflow in your build pipeline by using Git and GitHub](DevOps30/GitHubBuildPipeline.md)
