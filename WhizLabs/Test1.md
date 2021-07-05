@@ -1,4 +1,3 @@
-### Another test...
 ![alt text](T1Q2.png "Test 1")
 Azure Automation
 1. upload
