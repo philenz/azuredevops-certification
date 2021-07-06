@@ -1,1 +1,25 @@
-### Another test...
+![alt text](T4Q1.png "Test 4")
+![alt text](T4Q4.png "Test 4")
+![alt text](T4Q6.png "Test 4")
+![alt text](T4Q8.png "Test 4")
+![alt text](T4Q9.png "Test 4")
+![alt text](T4Q10.png "Test 4")
+https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-health-extension
+![alt text](T4Q13.png "Test 4")
+![alt text](T4Q14.png "Test 4")
+![alt text](T4Q15.png "Test 4")
+https://docs.microsoft.com/en-us/azure/azure-monitor/logs/get-started-queries
+![alt text](T4Q15a.png "Test 4")
+![alt text](T4Q20.png "Test 4")
+![alt text](T4Q21.png "Test 4")
+https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview
+![alt text](T4Q30.png "Test 4")
+![alt text](T4Q32.png "Test 4")
+![alt text](T4Q42.png "Test 4")
+![alt text](T4Q44.png "Test 4")
+![alt text](T4Agile.png "Test 4")
+![alt text](T4CMMI.png "Test 4")
+![alt text](T4Scrum.png "Test 4")
+![alt text](T4Q51.png "Test 4")
+![alt text](T4Q54.png "Test 4")
+![alt text](T4Q55.png "Test 4")
